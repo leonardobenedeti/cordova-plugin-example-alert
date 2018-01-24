@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-example-alert",
+  "version": "0.0.1",
+  "description": "teste",
+  "cordova": {
+    "id": "cordova-plugin-example-alert",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardobenedeti/cordova-plugin-example-alert.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Leonardo Benedeti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardobenedeti/cordova-plugin-example-alert/issues"
+  },
+  "homepage": "https://github.com/leonardobenedeti/cordova-plugin-example-alert#readme"
+}
